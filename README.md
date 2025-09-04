@@ -8,6 +8,9 @@ Contacts are stored in a JSON file for persistence, and you can also export them
 
 # Add Contact
 ![Contact Book Screenshot](https://raw.githubusercontent.com/Jayesh-dev-glitch/Contact-Book-Using-Python/main/Screenshot%202025-09-04%20125131.png)
+# Display All Contacts
+![Contact Book Screenshot](https://raw.githubusercontent.com/Jayesh-dev-glitch/Contact-Book-Using-Python/main/Screenshot%202025-09-04%20125208.png)
+
 
 ## Features
 
